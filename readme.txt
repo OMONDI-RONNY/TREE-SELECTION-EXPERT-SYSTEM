@@ -1,0 +1,1 @@
+to start the system type 'start.' and hit enter
